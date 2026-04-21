@@ -52,9 +52,10 @@ cmake --build .
 ## Test:
 
 Tested on Linux: ✅<br>
-Tested on MacOS: ❌ Not yet<br>
-Tested on Windows: ❌ Not yet<br>
+Tested on MacOS: 🔀 yes but not tested on a real machine<br>
+Tested on Windows: 🔀 yes but not tested on a real machine<br>
 
 
 ## Source
-Source of the HIDAPI files: https://github.com/libusb/hidapi
+
+The `/src/external` folder contain source of every project used on the program
