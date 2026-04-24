@@ -13,10 +13,11 @@ jobs:
     runs-on: ${{ matrix.os }}
 
 
+    # https://github.com/actions/runner-images
     strategy:
       fail-fast: false
       matrix:
-        os: [ubuntu-latest, macos-latest, windows-latest]
+        os: [ubuntu-22.04, macos-14, windows-2022]
 
 
     steps:
