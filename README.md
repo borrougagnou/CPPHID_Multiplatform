@@ -59,3 +59,4 @@ Tested on Windows: 🔀 yes but not tested on a real machine<br>
 ## Source
 
 The `/src/external` folder contain source of every project used on the program
+
